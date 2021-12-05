@@ -12,5 +12,5 @@ first of all you have to install this dependencies with **"npm install"**:
     * react-scripts
     * web-vitals
 
-    later you could type the command line **"npm run build"**
+## later you could type the command line "npm run build"
 
