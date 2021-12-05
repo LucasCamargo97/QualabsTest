@@ -1,5 +1,7 @@
 const fs = require('fs')
-// const path = require('path')
+const path = require('path')
+
+// This functions read the directories and give you the data that you need
 
 function promiseAllP(items, block) {
     var promises = [];
@@ -33,6 +35,10 @@ function readFiles(dirname) {
         });
   });
 }
+
+//-------------------------------------------------------------------------------------------
+
+//-------------FUNCTIONS BELOW ARE COMMENTED TO PREVENT A NEW FILE----------------------------
 
 // readFiles('../files').then(data => {
 //     fs.writeFileSync('../files/allUsers.json', JSON.stringify(data,null,2));
@@ -77,6 +83,8 @@ let am2 = 'authn.provider_2'
 let am3 = 'authn.provider_3'
 let am4 = 'authn.provider_4'
 
+//----------------THIS FUNCTIONS BELOW PUSH THE USERS TO THE OBJECT IN THE CORRECT PLACE---------------------
+
 const authz_provider_1_f =  dataJSON.filter(cm => cm.provider.content_module === cm1)
 function authz_provider_1(){
     obj.content_module.authz_provider_1.push(authz_provider_1_f.map(e => e.name))
@@ -120,6 +128,8 @@ function authn_provider_4(){
 // authn_provider_3()
 // authn_provider_4()
 
+
+//-----------------THIS FUNCTION MAKES A NEW FILE WITH THE OBJECT AND THE USERS--------------------
 function mockedData(){
     fs.writeFileSync('../files/mockedData.json', JSON.stringify(obj,null,2))
 }
