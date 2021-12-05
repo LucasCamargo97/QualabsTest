@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "u0.json",
+    "contents": "{\"name\": \"User 0\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_3\"}}"
+  },
+  {
+    "filename": "u1.json",
+    "contents": "{\"name\": \"User 1\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u10.json",
+    "contents": "{\"name\": \"User 10\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u11.json",
+    "contents": "{\"name\": \"User 11\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_3\"}}"
+  },
+  {
+    "filename": "u12.json",
+    "contents": "{\"name\": \"User 12\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_3\"}}"
+  },
+  {
+    "filename": "u13.json",
+    "contents": "{\"name\": \"User 13\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u14.json",
+    "contents": "{\"name\": \"User 14\", \"provider\": {\"content_module\": \"authz.provider_1\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u15.json",
+    "contents": "{\"name\": \"User 15\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_3\"}}"
+  },
+  {
+    "filename": "u16.json",
+    "contents": "{\"name\": \"User 16\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u17.json",
+    "contents": "{\"name\": \"User 17\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_1\"}}"
+  },
+  {
+    "filename": "u18.json",
+    "contents": "{\"name\": \"User 18\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u19.json",
+    "contents": "{\"name\": \"User 19\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_1\"}}\n"
+  },
+  {
+    "filename": "u2.json",
+    "contents": "{\"name\": \"User 2\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_4\"}}"
+  },
+  {
+    "filename": "u3.json",
+    "contents": "{\"name\": \"User 3\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_1\"}}"
+  },
+  {
+    "filename": "u4.json",
+    "contents": "{\"name\": \"User 4\", \"provider\": {\"content_module\": \"authz.provider_1\", \"auth_module\": \"authn.provider_1\"}}"
+  },
+  {
+    "filename": "u5.json",
+    "contents": "{\"name\": \"User 5\", \"provider\": {\"content_module\": \"authz.provider_3\", \"auth_module\": \"authn.provider_4\"}}"
+  },
+  {
+    "filename": "u6.json",
+    "contents": "{\"name\": \"User 6\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u7.json",
+    "contents": "{\"name\": \"User 7\", \"provider\": {\"content_module\": \"authz.provider_4\", \"auth_module\": \"authn.provider_3\"}}"
+  },
+  {
+    "filename": "u8.json",
+    "contents": "{\"name\": \"User 8\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_2\"}}"
+  },
+  {
+    "filename": "u9.json",
+    "contents": "{\"name\": \"User 9\", \"provider\": {\"content_module\": \"authz.provider_2\", \"auth_module\": \"authn.provider_4\"}}"
+  }
+]
