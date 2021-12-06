@@ -16,5 +16,5 @@ first of all you have to install this dependencies with **"npm install"**:
 
 [Also you have a demo here!!](https://qualabstest.netlify.app/)
 
-## The font code to get the object with the users is in the ustils folder in the mocked-data.js file
+## The font code to get the object with the users is in the utils folder in the mocked-data.js file
 
